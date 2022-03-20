@@ -71,7 +71,7 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 Anki Vector is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @TheAnkiVectorbot users
 
 #### Contribtors
-- [DARk EMPIRE](https://github.com/DARKEMPIRESLBOTS)
+- [DARK EMPIRE](https://github.com/DARKEMPIRESLBOTS)
 - [InukaAsith](https://github.com/InukaAsith)
 - [Technical-Hunter](https://github.com/Technical-Hunter)
 - [Roj Serbest](http://github.com/rojserbest)
