@@ -2,7 +2,7 @@
 
 import heroku3
 
-from AnkiVectorMusic.config import HEROKU_API_KEY
+from DARKMUSIC.config import HEROKU_API_KEY
 
 herokuclient = heroku3.from_key(HEROKU_API_KEY)
 
