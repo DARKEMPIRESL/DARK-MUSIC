@@ -2,6 +2,7 @@
 Anki Vector Music- Telegram bot project
 Copyright (C) 2021  Roj Serbest
 Copyright (C) 2021  Damantha Jasinghe
+Copyright (C) 2022  DARK EMPIRE
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
@@ -15,7 +16,7 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-Modified by Damantha Jasinghe
+Modified by DARK EMPIRE
 """
 
 import os
@@ -30,16 +31,16 @@ que = {}
 SESSION_NAME = getenv("SESSION_NAME", "session")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_NAME = getenv("BOT_NAME")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "AnkiVectorUpdates")
-BG_IMAGE = getenv("BG_IMAGE", "https://telegra.ph/file/d42b1a9fcd8f735c4be8b.png")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "DARKVC_stream")
+BG_IMAGE = getenv("BG_IMAGE", "https://te.legra.ph/file/16893a494e5f0fe20e022.jpg")
 admins = {}
 API_ID = int(getenv("API_ID", ""))
 API_HASH = getenv("API_HASH")
 BOT_USERNAME = getenv("BOT_USERNAME")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "AnkiVectorHelper")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "AnkiSupport_official")
-PROJECT_NAME = getenv("PROJECT_NAME", "Anki Vector")
-SOURCE_CODE = getenv("SOURCE_CODE", "github.com/Damantha126/Anki-Vector-Music")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "𝔭𝖔𝖘𝖊𝖎𝖉𝖔𝖓 🇱🇰🇸 🇱 🇧 🇴 🇹 🇸 ™")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "DARK_VC_Stream")
+PROJECT_NAME = getenv("PROJECT_NAME", "DARK EMPIRE")
+SOURCE_CODE = getenv("SOURCE_CODE", "github.com/DARKEMPIRESLBOTS/DARK-MUSIC")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "30"))
 ARQ_API_KEY = getenv("ARQ_API_KEY", None)
 PMPERMIT = getenv("PMPERMIT", None)
