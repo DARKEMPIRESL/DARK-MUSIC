@@ -1,6 +1,6 @@
 """
-Anki Vector Music- Telegram bot project
-Copyright (C) 2021  Damantha Jasinghe
+DARK MUSIC- Telegram bot project
+Copyright (C) 2022  DARK EMPIRE
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
 published by the Free Software Foundation, either version 3 of the
@@ -33,7 +33,7 @@ bot = Bot(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="AnkiVectorMusic.modules"),
+    plugins=dict(root="DARKMUSIC.modules"),
 )
 
 bot.start()
