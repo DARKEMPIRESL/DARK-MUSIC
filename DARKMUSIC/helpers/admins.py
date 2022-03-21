@@ -19,8 +19,8 @@ from typing import List
 
 from pyrogram.types import Chat, User
 
-from AnkiVectorMusic.function.admins import get as gett
-from AnkiVectorMusic.function.admins import set
+from DARKMUSIC.function.admins import get as gett
+from DARKMUSIC.function.admins import set
 
 
 async def get_administrators(chat: Chat) -> List[User]:
