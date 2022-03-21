@@ -1,9 +1,9 @@
 {
-  "name": "Anki Vector Music",
-  "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
+  "name": "DARK MUSIC",
+  "logo": "https://te.legra.ph/file/16893a494e5f0fe20e022.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Damantha126/Anki-Vector-Music",
+  "repository": "https://github.com/DARKEMPIRESLBOTS/DARK-MUSIC",
   "stack": "container",
   "buildpacks": [
    {
