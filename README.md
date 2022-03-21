@@ -77,7 +77,7 @@ Get pyrogram (p)  `SESSION` from here:
 - [Roj Serbest](http://github.com/rojserbest): Callsmusic Developer
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
-DARKMUSIC is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @TheAnkiVectorbot users
+DARKMUSIC is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @darks_vc_bot users
 
 #### Contribtors
 - [DARK EMPIRE](https://github.com/DARKEMPIRESLBOTS)
